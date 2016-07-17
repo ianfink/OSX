@@ -1,0 +1,10 @@
+This program demonstrates listing files in two directories under OS X.
+ 
+More specifically, this program creates two arrays that include
+files, in each respetive directory, that end in ".jpg".
+
+This is meant to be an educational program.  Other functions, that
+are not utilized, are there for educational purposes.  
+
+This was compiled against OS X v10.5.
+
